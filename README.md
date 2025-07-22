@@ -1,2 +1,2 @@
 # M.Umair-Khan-business-nexus-week2-Task
-Week 1 Internship Task - Business Nexus Project
+Week 2 Internship Task - Business Nexus Project
